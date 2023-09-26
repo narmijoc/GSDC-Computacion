@@ -1,2 +1,5 @@
 .vscode/
 _pycache_/
+
+log/*
+!log/.gitkeep
